@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tFpgtt/LohWbsxK1v/EmhezDzdewf4EgkQmN1NWDusZovy6gQqWH79sp5YSU99NH5KHSnXhRAsEeO6yNgwkRBw==",
+  "success": true,
+  "projectFilePath": "Y:\\תשפד\\כיתות ה ו\\קמאטק שנה ב\\ציפי אלפר\\c#\\ApiProject1\\ApiProject1\\ApiProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talmid1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\talmid1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\talmid1\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\talmid1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\talmid1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\talmid1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
